@@ -9,5 +9,10 @@ public class a {
 	public void name1() {
 		
 	}
-
+	
+	
+public void name2() {
+		
+	}
+    
 }
